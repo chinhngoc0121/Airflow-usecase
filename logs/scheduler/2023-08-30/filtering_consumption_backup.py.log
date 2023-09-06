@@ -1,0 +1,105 @@
+[2023-08-30T15:06:23.757+0000] {processor.py:157} INFO - Started process (PID=209) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:06:23.781+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:06:23.844+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:23.827+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:06:30.470+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:06:30.695+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.694+0000] {manager.py:501} INFO - Created Permission View: can edit on DAG:filtering_customer_consumption_backup
+[2023-08-30T15:06:30.704+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.704+0000] {manager.py:501} INFO - Created Permission View: can delete on DAG:filtering_customer_consumption_backup
+[2023-08-30T15:06:30.710+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.710+0000] {manager.py:501} INFO - Created Permission View: can read on DAG:filtering_customer_consumption_backup
+[2023-08-30T15:06:30.721+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.721+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:06:30.746+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.746+0000] {dag.py:2929} INFO - Creating ORM DAG for filtering_customer_consumption_backup
+[2023-08-30T15:06:30.748+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:06:30.748+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:06:30.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 7.359 seconds
+[2023-08-30T15:07:01.304+0000] {processor.py:157} INFO - Started process (PID=222) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:01.305+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:07:01.306+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:01.306+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:01.778+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:01.819+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:01.819+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:07:01.848+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:01.848+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:07:01.866+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.566 seconds
+[2023-08-30T15:07:32.844+0000] {processor.py:157} INFO - Started process (PID=232) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:32.846+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:07:32.848+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:32.847+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:33.347+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:33.370+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:33.370+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:07:33.379+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:33.378+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:07:33.392+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.552 seconds
+[2023-08-30T15:07:36.967+0000] {processor.py:157} INFO - Started process (PID=234) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:36.970+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:07:36.972+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:36.971+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:37.387+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:37.422+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:37.422+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:07:37.440+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:37.439+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:07:37.457+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.501 seconds
+[2023-08-30T15:07:41.610+0000] {processor.py:157} INFO - Started process (PID=236) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:41.612+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:07:41.616+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:41.613+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:41.913+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:07:41.947+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:41.947+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:07:41.958+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:07:41.958+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:07:41.976+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.372 seconds
+[2023-08-30T15:08:12.514+0000] {processor.py:157} INFO - Started process (PID=246) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:12.515+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:08:12.517+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:12.516+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:12.926+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:12.972+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:12.971+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:08:12.983+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:12.983+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:08:12.997+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.488 seconds
+[2023-08-30T15:08:41.029+0000] {processor.py:157} INFO - Started process (PID=256) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:41.031+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:08:41.033+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:41.032+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:41.415+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:08:41.466+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:41.465+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:08:41.484+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:08:41.483+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:08:41.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.489 seconds
+[2023-08-30T15:09:12.591+0000] {processor.py:157} INFO - Started process (PID=267) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:12.596+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:09:12.609+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:12.599+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:19.303+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:19.490+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:19.485+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:09:19.511+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:19.511+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:09:19.547+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 7.103 seconds
+[2023-08-30T15:09:50.187+0000] {processor.py:157} INFO - Started process (PID=278) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:50.223+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:09:50.233+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:50.233+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:53.087+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:09:53.662+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:53.648+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:09:57.063+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:09:57.061+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:09:57.148+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 7.070 seconds
+[2023-08-30T15:10:27.564+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:10:27.567+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:10:27.569+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:10:27.568+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:10:27.988+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:10:28.017+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:10:28.016+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:10:28.026+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:10:28.026+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:10:28.045+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.487 seconds
+[2023-08-30T15:10:58.869+0000] {processor.py:157} INFO - Started process (PID=300) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:10:58.875+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:10:58.884+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:10:58.884+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:00.434+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:00.543+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:00.541+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:11:00.560+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:00.559+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:11:00.581+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 1.747 seconds
+[2023-08-30T15:11:41.892+0000] {processor.py:157} INFO - Started process (PID=311) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:41.903+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:11:41.944+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:41.915+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:54.615+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:54.665+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:54.661+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:11:54.694+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:54.694+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:11:54.720+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 12.894 seconds
+[2023-08-30T15:11:56.590+0000] {processor.py:157} INFO - Started process (PID=322) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:56.592+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:11:56.593+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:56.593+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:56.114+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:11:56.137+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:56.137+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:11:56.151+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:11:56.151+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:11:56.171+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.384 seconds
+[2023-08-30T15:12:01.502+0000] {processor.py:157} INFO - Started process (PID=324) to work on /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:12:01.504+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/filtering_consumption_backup.py for tasks to queue
+[2023-08-30T15:12:01.505+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:12:01.505+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:12:01.780+0000] {processor.py:839} INFO - DAG(s) dict_keys(['filtering_customer_consumption_backup']) retrieved from /opt/airflow/dags/filtering_consumption_backup.py
+[2023-08-30T15:12:01.809+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:12:01.808+0000] {taskinstance.py:1945} ERROR - {'DAG Id': 'filtering_customer_consumption_backup', 'Task Id': 'check_raw_data_sensor', 'Run Id': 'manual__2023-08-30T15:10:30.416707+00:00', 'Hostname': '39b48ecb7828', 'External Executor Id': 'ae9f9972-2286-43f2-91ac-b6cf7cdf4942'}
+[2023-08-30T15:12:01.830+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:12:01.830+0000] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=filtering_customer_consumption_backup, task_id=check_raw_data_sensor, execution_date=20230830T151030, start_date=20230830T151109, end_date=20230830T151201
+[2023-08-30T15:12:01.847+0000] {processor.py:790} INFO - Executed failure callback for <TaskInstance: filtering_customer_consumption_backup.check_raw_data_sensor manual__2023-08-30T15:10:30.416707+00:00 [failed]> in state failed
+[2023-08-30T15:12:01.860+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:12:01.860+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2023-08-30T15:12:01.868+0000] {logging_mixin.py:151} INFO - [2023-08-30T15:12:01.868+0000] {dag.py:3677} INFO - Setting next_dagrun for filtering_customer_consumption_backup to None, run_after=None
+[2023-08-30T15:12:01.887+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/filtering_consumption_backup.py took 0.391 seconds
